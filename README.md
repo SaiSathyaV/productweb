@@ -367,12 +367,12 @@ function toggleMenu(){
 ```
 
 ## Output:
-![OUTPUT](/static/images/th1.png)
-![OUTPUT](/static/images/th2.png)
-![OUTPUT](/static/images/th3.png)
+![OUTPUT](./th1.png)
+![OUTPUT](./th2.png)
+![OUTPUT](./th3.png)
 
 ## HTML Validator
-![HTML VALIDATOR](./static/images/validstarb.png)
+![HTML VALIDATOR](./validstarb.png)
 
 ## Result:
 The program for designing company website for sale of products using HTML,CSS and JavaScript is completed successfully.
