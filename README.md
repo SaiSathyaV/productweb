@@ -367,9 +367,9 @@ function toggleMenu(){
 ```
 
 ## Output:
-![OUTPUT](./static/images/th1.png)
-![OUTPUT](./static/images/th2.png)
-![OUTPUT](./static/images/th3.png)
+![OUTPUT](/static/images/th1.png)
+![OUTPUT](/static/images/th2.png)
+![OUTPUT](/static/images/th3.png)
 
 ## HTML Validator
 ![HTML VALIDATOR](./static/images/validstarb.png)
